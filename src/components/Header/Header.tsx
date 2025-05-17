@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { BookA, Calendar, Send } from 'lucide-react';
+import {  Calendar, Send } from 'lucide-react';
 
 interface HeaderProps {
   activeSection: string;
